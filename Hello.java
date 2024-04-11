@@ -7,7 +7,7 @@ class Hello {
         Integer num2 = 100;
         Integer num3 = 500;
         Integer num4 = 500;
-
+        System.out.println("Adding new line of the code");
         if (num1 == num2) {
             System.out.println("num1 == num2");
         } else {

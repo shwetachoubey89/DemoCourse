@@ -10,6 +10,6 @@ public class EvenOdd {
             System.out.println(j + " Number is even");
         else
             System.out.println(j + " Number is odd");
-
+        System.out.println("This is how we find difference  between even and odd");
     }
 }
